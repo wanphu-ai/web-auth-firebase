@@ -2,6 +2,8 @@
 
 Website Authentication & Profile chuyên nghiệp được xây dựng bằng **ReactJS (Vite)**, **Firebase Authentication**, **Cloud Firestore Database**, và **TailwindCSS**. Dự án được thiết kế theo kiến trúc chuẩn Clean Code, Component Reusable, Responsive hoàn hảo và bảo mật thông tin với Protected Route.
 
+👉 **Demo Live Website**: [https://web-auth-firebase.vercel.app](https://web-auth-firebase.vercel.app)
+
 ---
 
 ## 🚀 Công nghệ sử dụng
